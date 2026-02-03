@@ -1,0 +1,7 @@
+{
+  "/dashboard/customers/page": "app/dashboard/customers/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dashboard/create-order/page": "app/dashboard/create-order/page.js",
+  "/dashboard/orders/page": "app/dashboard/orders/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}

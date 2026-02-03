@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true,
+    "incremental": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    ".next/types/**/*.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "src/app/signin/page.jsx",
+    "src/lib/mongodb.js",
+    "src/models/User.js",
+    "src/models/Product.js",
+    "src/models/Order.js",
+    "src/models/Customer.js",
+    "src/models/Brand.js",
+    "src/models/Category.js",
+    "src/app/api/products/route.js",
+    "src/app/api/orders/route.js",
+    "src/context/AuthContext.tsx"
+, "src/app/api/reports/route.js"  ],
+  "exclude": ["node_modules"]
+}
