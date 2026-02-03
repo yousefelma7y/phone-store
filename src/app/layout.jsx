@@ -5,9 +5,9 @@ export const metadata = {
   title: "POS System",
   description: "Manage Your Brand",
   icons: {
-    icon: "/logo.jpg",
-    shortcut: "/logo.jpg",
-    apple: "/logo.jpg",
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
     // other: [
     //   {
     //     rel: "icon",

@@ -155,8 +155,8 @@ const Sidebar = ({ role }) => {
             <div className="">
               <a href="/dashboard">
                 <img
-                  src="/logo.jpg"
-                  alt="Elz3lan logo"
+                  src="/logo.png"
+                  alt="Store logo"
                   className={`rounded-full ${isOpen
                     ? "h-[60px] w-[60px] lg:h-[70px] lg:w-[70px]"
                     : "h-[40px] w-[40px] lg:h-[60px] lg:w-[60px]"

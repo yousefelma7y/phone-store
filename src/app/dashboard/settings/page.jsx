@@ -245,8 +245,8 @@ export default function SettingsPage() {
                   <Store className="w-12 h-12 text-gray-400" />
                 )} */}
               <img
-                src="/logo.jpg"
-                alt="Elz3lan logo"
+                src="/logo.png"
+                alt="Store logo"
                 className={`rounded-full h-full w-full object-cover`}
               />
             </div>
